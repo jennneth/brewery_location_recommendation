@@ -1,7 +1,7 @@
 # brewBuds_project2
  
 Data Sources:
-Brewery CSV:https://data.world/datafiniti/breweries-brew-pubs-in-the-usa
+Brewery CSV:https://data.world/datafiniti/breweries-brew-pubs-in-the-usa <br>
 Starbucks CSV: https://gist.github.com/dankohn/09e5446feb4a8faea24
 Census/IRS Data:https://www.irs.gov/statistics/soi-tax-stats-individual-income-tax-statistics-2018-zip-code-data-soi
 State-ZipCode GeoJSON: 
